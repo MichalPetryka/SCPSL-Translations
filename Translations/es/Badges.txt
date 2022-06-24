@@ -1,54 +1,58 @@
-Director/a Ejecutivo de Northwood
-Director/a de Información de Northwood
-Director/a de Operaciones de Northwood
-Director/a de comunidad de Northwood
-Director/a de Discord de Northwood
-Asistente ejecutivo de Northwood
-Director/a de opiniones de Northwood
-Recursos Humanos de Northwood
-Director/a de Recursos Humanos de Northwood
-Director/a de plataformas de Marketing de Northwood
+Director ejecutivo de Northwood
+Director de tecnología de Northwood 
+Director de operaciones de Northwood
+Director de la comunidad de Northwood
+Gerente de Discord de Northwood
+Director adjunto de Northwood
+Gerente de opiniones de Northwood
+Recursos humanos de Northwood
+Director de recursos humanos de Northwood
+Gerente de márketing de Northwood
 Empleado/a de Northwood
-Director/a de Steam de Northwood
-Administrador de Sistemas de Northwood
-Director/a de la Wiki de Northwood
-Director/a Artístico de SCP:SL
-Supervisor/a Artístico de SCP:SL
+Gerente de Steam de Northwood
+Administrador/a de sistema de Northwood
+Gerente de la Wiki de Northwood
+Gerente de arte de SCP:SL
+Supervisor de arte de SCP:SL
 Artista de SCP:SL
-Programador/a Back-end de SCP:SL
-Director/a de programación Back-end de SCP:SL
+Programador/a backend de SCP:SL
+Gerente de desarrollo backend de SCP:SL
 Desarrollador/a de SCP:SL
 Ganador/a de evento de SCP:SL
-Programador/a Full-stack de SCP:SL
+Programador/a fullstack de SCP:SL
 Diseñador/a de SCP:SL
 Programador/a de jugabilidad de SCP:SL
-Director/a de moderacion global de SCP:SL
+Gerente de moderación global de SCP:SL
 Moderador/a global de SCP:SL
-Diseñador/a principal de SCP:SL
-Programador/a principal de jugabilidad de SCP:SL
+Dsieñador/a líder de SCP:SL
+Programador/a líder de SCP:SL
 Diseñador/a de niveles de SCP:SL
 Socio/a de SCP:SL
 Mecenas de SCP:SL
-Director/a de control de calidad de SCP:SL
+Gerente de QA de SCP:SL
 Diseñador/a de sonido de SCP:SL
-Director/a de juego de SCP:SL
-Director/a oficial de servidores de SCP:SL
+Director de SCP:SL
+Gerente de servidor oficial de SCP:SL
 Especialista de verificación de Northwood
-Especialista de código nativo de Northwood
-Probador/a de control de calidad de SCP:SL
-Superior de control de calidad de SCP:SL
-Suscriptor/a de Twitch de SCP:SL
-Director/a de sonido de SCP:SL
+Desarrollador/a del anticheat de SCP:SL
+Asegurador/a de calidad de SCP:SL
+Supervisor de QA de SCP:SL
+Suscriptor de Twitch de SCP:SL
+Gestor de sonido de SCP:SL
 Equipo de opiniones de Northwood
-Supervisor/a de verificaciones de Northwood
-Supervisor/a de servidores oficiales de SCP:SL
-Supervisor/a de Feedback de Northwood
-Director/a de verificación de Northwood
-Director/a de bots Northwood
-Director/a de Traducción de Northwood
-Director/a de diseño de juego de SCP:SL
-Animador/a de SCP:SL
-Director/a de relaciones publicas de Northwood
+Supervisor de verificación de Northwood
+Supervisor de servidores oficiales de SCP:SL
+Supervisor de opiniones de Northwood
+Gerente de verificación de Northwood
+Gerente de desarrollo de bots de Northwood
+Gerente de traducciones de Northwood
+Gerente de diseño de SCP:SL
+Animador de SCP:SL
+Director de relaciones pública de Northwood
 Ayudante de SCP:SL
-Actor/Actriz de voz de SCP:SL
-Inversor/a de la fundación de SCP:SL
+Actor de voz de SCP:SL
+Inversor de SCP:SL
+Director de Northwood
+Director asociado de SCP:SL 
+Supervisor de soporte técnico de Northwood
+Gerente de soporte técnico de Northwood
