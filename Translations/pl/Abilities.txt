@@ -28,4 +28,4 @@ Blokada:Począwszy od drugiego poziomu dostępu, możesz wejść w interakcję z
 Praktycznie niezniszczalny:Trzy generatory znajdują się w Strefie Wyższego Nadzoru. Jeśli wszystkie zostaną odblokowane i aktywowane, zostaniesz zabezpieczony.\nKażdy generator ma sekwencję odliczania, którą każdy gracz może przerwać klikając przycisk "ANULUJ" na generatorze.
 Wzmocniony beton:Zachwycaj się spojrzeniami pełnych podziwu, lecz najpewniej będziesz musiał stać czoła wandalizmowi. Masz wbudowaną odporność na pociski. Bronie ze słabą penetracją zadają tobie o wiele mniej obrażeń.
 Szarża (podczas szału):Skróć ich ucieczkę - zasługują na to. Szarżujesz przed siebie, niszcząc wszystko oraz raniąc każdego w twoim zasięgu. Jeśli natrafisz na bramę, przeciśniesz się przez nią.
-Furia:Niech znają twój gniew. Utwórz pod sobą kałużę, która plami i znacznie spowalnia ludzi przechodzących przez nią. Zabicie poplamionej osoby odnawia kilka punktów Hume Shield.
+Furia:Niech znają twój gniew. Utwórz pod sobą kałużę, która plami i znacznie spowalnia ludzi przechodzących przez nią. Zabicie poplamionej osoby odnawia kilka punktów Tarczy Humowej.
